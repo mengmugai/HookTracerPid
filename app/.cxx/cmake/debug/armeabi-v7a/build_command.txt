@@ -1,0 +1,25 @@
+                    Executable : /Users/didi/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions -std=c++11
+-DCMAKE_FIND_ROOT_PATH=/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/prefab/armeabi-v7a/prefab
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/didi/Library/Android/sdk/ndk/20.0.5594570
+-DANDROID_PLATFORM=android-24
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_ANDROID_NDK=/Users/didi/Library/Android/sdk/ndk/20.0.5594570
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/didi/AndroidStudioProjects/HookTracerPid/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/didi/AndroidStudioProjects/HookTracerPid/app/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=/Users/didi/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=24
+-B/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 1

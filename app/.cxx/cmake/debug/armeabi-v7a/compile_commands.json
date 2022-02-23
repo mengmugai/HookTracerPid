@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/utils/parse.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/utils/parse.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/utils/parse.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/Hook/HLua.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Hook/HLua.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Hook/HLua.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/main.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/main.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/main.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/Substrate/hde64.c.o   -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Substrate/hde64.c",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Substrate/hde64.c"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/Substrate/SubstrateDebug.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Substrate/SubstrateDebug.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Substrate/SubstrateDebug.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/Substrate/SubstrateHook.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Substrate/SubstrateHook.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Substrate/SubstrateHook.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/Substrate/SubstratePosixMemory.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Substrate/SubstratePosixMemory.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/Substrate/SubstratePosixMemory.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/dlfc/dlfcn_nougat.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/dlfc/dlfcn_nougat.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/dlfc/dlfcn_nougat.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/dlfc/dlfcn_compat.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/dlfc/dlfcn_compat.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/dlfc/dlfcn_compat.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/inlineHook/inlineHook.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/inlineHook/inlineHook.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/inlineHook/inlineHook.cpp"
+},
+
+{
+  "directory": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --gcc-toolchain=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/didi/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -DLVmp_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -frtti -fexceptions -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/LVmp.dir/inlineHook/relocate.cpp.o -c /Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/inlineHook/relocate.cpp",
+  "file": "/Users/didi/AndroidStudioProjects/HookTracerPid/app/src/main/jni/inlineHook/relocate.cpp"
+}
+]
